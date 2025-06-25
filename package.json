@@ -1,0 +1,18 @@
+{
+  "name": "search-algorithms",
+  "version": "1.0.0",
+  "description": "This project contains implementations of various search algorithms and data structures, including B-Trees and KD-Trees. The project is organized into different components, each focusing on a specific algorithm or data structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests available\"",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "husky": "^8.0.0",
+    "prettier": "^3.6.0"
+  }
+}
